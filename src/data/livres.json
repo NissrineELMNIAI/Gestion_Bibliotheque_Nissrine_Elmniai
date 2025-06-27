@@ -1,0 +1,58 @@
+[
+  {
+    "ISBN": "1000",
+    "titre": "genie info",
+    "auteur": "bouchntouf",
+    "annee": 2004,
+    "genre": "filiere",
+    "statut": "disponible"
+  },
+  {
+    "ISBN": "9782070612758",
+    "titre": "le petit prince",
+    "auteur": "Antoine de Saint-Exup\u00e9ry",
+    "annee": 1943,
+    "genre": "Conte philosophique",
+    "statut": "disponible"
+  },
+  {
+    "ISBN": "9782070360024",
+    "titre": "L'\u00c9tranger",
+    "auteur": "Albert Camus",
+    "annee": 1942,
+    "genre": "Roman existentiel",
+    "statut": "disponible"
+  },
+  {
+    "ISBN": "9782070643028",
+    "titre": "Harry Potter \u00e0 l'\u00e9cole des sorciers",
+    "auteur": "J.K. Rowling",
+    "annee": 1997,
+    "genre": "Fantasy",
+    "statut": "disponible"
+  },
+  {
+    "ISBN": "9782070368228",
+    "titre": "1984",
+    "auteur": "George Orwell",
+    "annee": 1949,
+    "genre": "Science-fiction dystopique",
+    "statut": "disponible"
+  },
+  {
+    "ISBN": "9782070360437",
+    "titre": "La Peste",
+    "auteur": "Albert Camus",
+    "annee": 1947,
+    "genre": "Roman philosophique",
+    "statut": "disponible"
+  },
+  {
+    "ISBN": "123456789",
+    "titre": "Les miserables",
+    "auteur": "Victor Hugo",
+    "annee": 1862,
+    "genre": "Roman historique",
+    "statut": "disponible"
+  }
+]
